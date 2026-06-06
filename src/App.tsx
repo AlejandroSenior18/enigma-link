@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router';
-import Home from './pages/Home';
-import Dashboard from './pages/Dashboard';
-import PublicMessage from './pages/PublicMessage';
+import Home from './Home';
+import Dashboard from './Dashboard';
+import PublicMessage from './PublicMessage';
 
 export default function App() {
   return (
