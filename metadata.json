@@ -1,0 +1,6 @@
+{
+  "name": "Enigma Link",
+  "description": "Recibe mensajes anónimos a través de un enlace único.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
